@@ -1,6 +1,7 @@
 # database_proj
 
 Introduction to Databases - CECS535 Course Project - University of Louisville
+
 See attached .pdf file for sql examples.  
 
 Database created on PGAdminIII using Postgre SQL.
